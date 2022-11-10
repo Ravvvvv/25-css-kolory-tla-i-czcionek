@@ -1,0 +1,60 @@
+/* kolor storny */
+body {
+    background-color: crimson;
+}
+
+/* sekcja */
+section {
+    background-color: blueviolet;
+}
+
+/* naglowek */
+h1 {
+    background-color: blue;
+    color: darkorange;
+}
+
+/* paragraf */
+p {
+    color: yellow;
+    background-color: green;
+}
+
+/* podtytul */
+h2 {
+    color: red;
+    background-color: black;
+}
+
+/* lista numerowna */
+ol {
+    color: fuchsia;
+    background-color: chocolate;
+}
+
+/* lista */
+li {
+    color: green;
+    background-color: violet;
+}
+
+/* item */
+.square5 {
+    color: white;
+}
+
+.square4 {
+    color: chartreuse;
+}
+
+#square3 {
+    color: maroon;
+}
+
+#square2 {
+    color: dodgerblue;
+}
+
+#square1 {
+    color: darksalmon;
+}
